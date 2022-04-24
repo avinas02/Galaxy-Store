@@ -1,0 +1,9 @@
+@import "cart.css"; 
+
+.add_to{
+    text-align: center;
+}
+
+.container{
+    border-right:1rem solid white;
+}
